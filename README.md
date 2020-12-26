@@ -1,4 +1,3 @@
-# duck
-Telegram test bot
+# ButtHead Telegram Bot
 @ButtheadTestBot
 https://t.me/ButtheadTestBot
